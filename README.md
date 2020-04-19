@@ -1,5 +1,6 @@
 # studying
 最近1年間で機械学習・ディープラーニングの勉強のためにJupyterNotebookで作成したリソースです。
+自己学習用のためわかりにくい部分や整っていない部分がありますことご了承ください。
 
 
 # autmated_multi_classification
@@ -58,6 +59,7 @@ EDAを詳細に行っているリソースがあったため、今後の参考�
 
 # mobile_dense_net
 
+
 E資格の勉強のため、MobileNetとDenseNetを実装した場合どのようにして利用するのかを確認したものです。
 
 
@@ -80,4 +82,37 @@ E資格の勉強のため、MobileNetとDenseNetを実装した場合どのよ�
 # temperature_forecast
 
 RNNの勉強のため、気温の日間変動から次の日の気温を予測するモデルを作成しました。
+
+
+# 学習に使用した書籍（G検定、E資格の勉強も含む）
+・実践力を身につけるPythonの教科書
+
+・詳解ディープラーニング　TensorFlow・Kerasによる時系列データ処理
+
+・達人データサイエンティストによる理論と実装　Python　機械学習プログラミング
+
+・ゼロから作るDeepLearning Pythonで学ぶディープラーニングの理論と実装
+
+・ゼロから作るDeepLearning⓶ 自然言語処理編
+
+・Python機械学習クックブック
+
+・AI白書2019
+
+・Kaggleで勝つデータ分析の技術
+
+# 学習のためUdemyで受講した講座
+・自然言語処理とチャットボット: AIによる文章生成と会話エンジン開発
+
+・【Pythonで学ぶ】OpenCVでの画像処理入門
+
+・【YOLOとSSDを使った】実践物体検出
+
+・【TensorFlow・Kerasで学ぶ】時系列データ処理入門（RNN/LSTM, Word2Vec)
+
+・【TensorFlow・Python3 で学ぶ】深層強化学習入門
+
+・【Kaggleで学ぼう】Python と Keras で学ぶディープラーニング開発入門
+
+
 
