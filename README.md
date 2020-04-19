@@ -29,25 +29,33 @@ AIエンジニアリングの勉強のため、kaggleの様々なコンペティ
 データの種類が多いコンペティションだったため、EDAを行っているリソースを今後の参考のために写経しました。
 
 ・House_Price
+
 回帰問題の練習のために作成しました。
 
 ・Porto_Seguro
+
 EDAやモデルの作成の勉強のため、リソースを写経しながら自分で試して作りました。
 
 ・Restaurant_Revenue_Prediction
+
 練習のために作成したものです。
 
 ・Santander_Customer_Transaction_Prediction
+
 EDAを詳細に行っているリソースがあったため、今後の参考のために写経しました。
 
 ・Titinic
+
 分類問題の導入としていくつかモデルを作成して勉強しました。
 
 ・Toxic_Comment_Classification_Challenge
+
 自然言語処理の基本的な勉強のためにいくつか作成しました。
 
 ・Tweet
+
 自然言語処理のEDAの勉強のために作成したものです。
+
 
 
 -- mobile_dense_net --
