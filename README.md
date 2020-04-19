@@ -57,11 +57,11 @@ EDAを詳細に行っているリソースがあったため、今後の参考�
 
 自然言語処理のEDAの勉強のために作成したものです。
 
-### ・mobile_dense_net
+## mobile_dense_net
 
 E資格の勉強のため、MobileNetとDenseNetを実装した場合どのようにして利用するのかを確認したものです。
 
-### ・neural_style_transfer
+## neural_style_transfer
 
 ジェネレーティブディープラーニングのニューラルスタイル変換を実装したものです。
 いろいろな画像を組み合わせてスタイル変換した画像を作っていました。
